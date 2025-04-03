@@ -1,0 +1,48 @@
+# JUCE Generated Files
+JuceLibraryCode/
+*.jucer
+
+# Visual Studio Files
+.vs/
+*.VC.db
+*.suo
+*.user
+*_i.c
+*_p.c
+*_i.h
+*.ncb
+*.sdf
+*.sln.docstates
+ipch/
+*vcxproj.filters
+*vcxproj.user
+*vcxproj.log
+*sln
+
+# Build Output Folders (Common Practice)
+Builds/
+build/
+x64/
+Win32/
+Debug/
+Release/
+
+# Other Build Artifacts
+*.ilk
+*.pdb
+*.lib
+*.exp
+*.dll
+*.exe
+*.a
+*.o
+*.obj
+*.pyc
+*.pyo
+*.pyd
+
+# macOS files
+.DS_Store
+
+# C++ Precompiled Headers
+*.pch 
