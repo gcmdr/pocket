@@ -1,4 +1,4 @@
-# Pocket JUCE Plugin
+# Pocket Plugin
 
 This is a JUCE audio plugin designed to provide visual feedback on musical timing accuracy. It analyzes incoming MIDI notes against the host's transport information to display whether the timing is early or late.
 
